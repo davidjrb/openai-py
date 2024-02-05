@@ -51,13 +51,12 @@ Type your messages after the "You:" prompt. Type "exit" to end the chat.
 
 ---
 
-```html
-<pre style="white-space: pre-wrap">
+```bash
+> python3 chat_with_gpt4.py                                                            
 You: say something clever GPT
 AI: "Artificial intelligence is like a sharp tool. It's brilliant at carving solutions, but only if there's a human hand guiding it."
 You: touché
 AI: Touché is a French term, often used in English conversation, to acknowledge a clever point made at someone's expense or a good comeback. It's often used during debates or arguments. The term originally comes from fencing, where it means you've been touched by your opponent's sword. So if someone makes a point you can't argue with, you'd respond with "touché" as a way to concede that they've 'struck' you with a good argument or witty response.
-</pre>
 ```
 
 ---
